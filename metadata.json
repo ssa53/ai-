@@ -1,0 +1,5 @@
+{
+  "name": "AI Card News Generator",
+  "description": "Generate Top N list posts and card news images using AI.",
+  "requestFramePermissions": []
+}
